@@ -1,0 +1,69 @@
+[
+    {
+        "id": 10,
+        "name": "Проєктування методів",
+        "items": [
+            {
+                "id": 1,
+                "name": "#ReturnTypeConfusion",
+                "description": "повертається значення з кількома різними типами, що схоже на заплутування логіки"
+            },
+            {
+                "id": 2,
+                "name": "#ExceptionsNotFlags",
+                "description": "віддавайте перевагу виключенням над булевою логікою"
+            },
+            {
+                "id": 3,
+                "name": "#StrongTypingInMethods",
+                "description": "сильна типізація в методах"
+            },
+            {
+                "id": 4,
+                "name": "#ParameterOrderOptimization",
+                "description": "розміщуйте необов'язкові параметри в кінці для покращення гнучкості та читаємості методу"
+            },
+            {
+                "id": 5,
+                "name": "#ReplaceArgumentsWithDTO",
+                "description": "для великої кількості аргументів можна замінити їх на DTO"
+            },
+            {
+                "id": 6,
+                "name": "#OptimizeMethodArguments",
+                "description": "оптимізуйте аргументи методу (більш абстрактно)"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Погані практики",
+        "items": [
+            {
+                "id": 1,
+                "name": "#AtSymbolErrorSuppression",
+                "description": "Не приглушайте помилки за допомогою собачки"
+            },
+            {
+                "id": 2,
+                "name": "#AvoidDirectGlobalAccess",
+                "description": "Уникайте прямого доступу до глобальних масивів"
+            },
+            {
+                "id": 3,
+                "name": "#AvoidStaticMethods",
+                "description": "Уникайте статичних методів"
+            },
+            {
+                "id": 4,
+                "name": "#AvoidDefaultValuesInDTO",
+                "description": "Уникайте значень за замовчуванням у DTO"
+            },
+            {
+                "id": 5,
+                "name": "#InefficientObjectCreationInLoop",
+                "description": "Створення об'єктів у циклі призводить до неефективності"
+            }
+        ]
+    }
+]

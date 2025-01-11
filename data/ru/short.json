@@ -1,0 +1,69 @@
+[
+    {
+        "id": 10,
+        "name": "Проектирование методов",
+        "items": [
+            {
+                "id": 1,
+                "name": "#ReturnTypeConfusion",
+                "description": "возвращаемое значение имеет несколько разных типов, это похоже на запутывание логики"
+            },
+            {
+                "id": 2,
+                "name": "#ExceptionsNotFlags",
+                "description": "предпочитаем исключения булевой логике"
+            },
+            {
+                "id": 3,
+                "name": "#StrongTypingInMethods",
+                "description": "сильная типизация в методах"
+            },
+            {
+                "id": 4,
+                "name": "#ParameterOrderOptimization",
+                "description": "разместите необязательные параметры в конце для улучшения гибкости и читаемости метода"
+            },
+            {
+                "id": 5,
+                "name": "#ReplaceArgumentsWithDTO",
+                "description": "для большого числа аргументов, можно их заменить на ДТО"
+            },
+            {
+                "id": 6,
+                "name": "#OptimizeMethodArguments",
+                "description": "оптимизируй аргументы метода(более абстрактрный)"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Плохие практики",
+        "items": [
+            {
+                "id": 1,
+                "name": "#AtSymbolErrorSuppression",
+                "description": "Не давим ошибки собакой"
+            },
+            {
+                "id": 2,
+                "name": "#AvoidDirectGlobalAccess",
+                "description": "Избегайте прямого доступа к глобальным массивам"
+            },
+            {
+                "id": 3,
+                "name": "#AvoidStaticMethods",
+                "description": "Избегайте статических методов"
+            },
+            {
+                "id": 4,
+                "name": "#AvoidDefaultValuesInDTO",
+                "description": "Избегайте значений по умолчанию в ДТО"
+            },
+            {
+                "id": 5,
+                "name": "#InefficientObjectCreationInLoop",
+                "description": "Создание объектов в цикле приводит к неэффективности"
+            }
+        ]
+    }
+]
