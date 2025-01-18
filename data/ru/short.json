@@ -65,5 +65,31 @@
                 "description": "Создание объектов в цикле приводит к неэффективности"
             }
         ]
+    },
+    {
+        "id": 12,
+        "name": "PR Workflow",
+        "items": [
+            {
+                "id": 1,
+                "name": "#MandatoryPushFixCommits",
+                "description": "Обязательно заливаем промежуточные коммиты в удаленный репозиторий."
+            },
+            {
+                "id": 2,
+                "name": "#ScheduledRefactor",
+                "description": "Запланирован рефакторинг."
+            },
+            {
+                "id": 3,
+                "name": "#RefactorTaskCreated",
+                "description": "Задача на рефакторинг создана"
+            },
+            {
+                "id": 4,
+                "name": "#SmallPRBetter",
+                "description": "Маленькие ПР — эффективнее"
+            }
+        ]
     }
 ]
