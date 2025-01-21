@@ -1,37 +1,69 @@
 [
     {
+        "id": 8,
+        "name": "Проектирование Репозиториев",
+        "items": [
+            {
+                "id": 1,
+                "name": "#CleanQueryBuilder",
+                "description": "Чистый построитель запросов"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Проектирование Сущностей",
+        "items": [
+            {
+                "id": 1,
+                "name": "#DirectEntityPropertyAccess",
+                "description": "Используем прямой доступ к свойствам сущности"
+            },
+            {
+                "id": 2,
+                "name": "#EntityConstructorFlex",
+                "description": "Гибкость создания сущности"
+            }
+        ]
+    },
+    {
         "id": 10,
         "name": "Проектирование методов",
         "items": [
             {
                 "id": 1,
                 "name": "#ReturnTypeConfusion",
-                "description": "возвращаемое значение имеет несколько разных типов, это похоже на запутывание логики"
+                "description": "Возвращаемое значение имеет несколько разных типов, это похоже на запутывание логики"
             },
             {
                 "id": 2,
                 "name": "#ExceptionsNotFlags",
-                "description": "предпочитаем исключения булевой логике"
+                "description": "Предпочитаем исключения булевой логике"
             },
             {
                 "id": 3,
                 "name": "#StrongTypingInMethods",
-                "description": "сильная типизация в методах"
+                "description": "Придерживаемся строгой типизации методов"
             },
             {
                 "id": 4,
                 "name": "#ParameterOrderOptimization",
-                "description": "разместите необязательные параметры в конце для улучшения гибкости и читаемости метода"
+                "description": "Разместите необязательные параметры в конце для улучшения гибкости и читаемости метода"
             },
             {
                 "id": 5,
                 "name": "#ReplaceArgumentsWithDTO",
-                "description": "для большого числа аргументов, можно их заменить на ДТО"
+                "description": "Для большого числа аргументов, можно их заменить на ДТО"
             },
             {
                 "id": 6,
                 "name": "#OptimizeMethodArguments",
-                "description": "оптимизируй аргументы метода(более абстрактрный)"
+                "description": "Оптимизация аргументов метода"
+            },
+            {
+                "id": 7,
+                "name": "#MethodNaming",
+                "description": "Именование методов"
             }
         ]
     },
@@ -105,6 +137,17 @@
                 "id": 2,
                 "name": "#CustomFrameworkWrapper",
                 "description": "Используем обертку вокруг стандартного класса фреймворка, добавляющую кастомизированную функциональность для удобства и гибкости"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Best Practices",
+        "items": [
+            {
+                "id": 1,
+                "name": "#UseClassConstantForClassName",
+                "description": "Используем константу класса вместо строки"
             }
         ]
     }
