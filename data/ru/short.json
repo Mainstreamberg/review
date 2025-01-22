@@ -7,6 +7,11 @@
                 "id": 1,
                 "name": "#UseDependencyInjection",
                 "description": "Используем Dependency Injection для разрешения зависимостей"
+            },
+            {
+                "id": 2,
+                "name": "#ClassNaming",
+                "description": "Именование классов"
             }
         ]
     },
