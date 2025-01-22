@@ -23,6 +23,11 @@
                 "id": 2,
                 "name": "#EntityConstructorFlex",
                 "description": "Гибкость создания сущности"
+            },
+            {
+                "id": 3,
+                "name": "#TableAndEntityNaming",
+                "description": "Именование таблиц и сущностей"
             }
         ]
     },
