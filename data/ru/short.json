@@ -1,5 +1,16 @@
 [
     {
+        "id": 7,
+        "name": "Проектирование Классов",
+        "items": [
+            {
+                "id": 1,
+                "name": "#UseDependencyInjection",
+                "description": "Используем Dependency Injection для разрешения зависимостей"
+            }
+        ]
+    },
+    {
         "id": 8,
         "name": "Проектирование Репозиториев",
         "items": [
