@@ -1,5 +1,16 @@
 [
     {
+        "id": 5,
+        "name": "Moodle Practices",
+        "items": [
+            {
+                "id": 1,
+                "name": "#UseRepositoryAndQB",
+                "description": "Используем репозитории и построитель запросов"
+            }
+        ]
+    },
+    {
         "id": 6,
         "name": "Разделение логики",
         "items": [
