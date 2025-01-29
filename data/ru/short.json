@@ -1,5 +1,16 @@
 [
     {
+        "id": 4,
+        "name": "Coding Style",
+        "items": [
+            {
+                "id": 1,
+                "name": "#MethodCallFormatting",
+                "description": "Форматирование вызовов методов"
+            }
+        ]
+    },
+    {
         "id": 5,
         "name": "Moodle Practices",
         "items": [
