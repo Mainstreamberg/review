@@ -56,6 +56,11 @@
                 "id": 1,
                 "name": "#CleanQueryBuilder",
                 "description": "Чистый построитель запросов"
+            },
+            {
+                "id": 2,
+                "name": "#AvoidDefaultLogicInQueryBuilder",
+                "description": "Избегайте логики по умолчанию в QueryBuilder"
             }
         ]
     },
