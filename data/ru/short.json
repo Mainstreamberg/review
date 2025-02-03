@@ -45,6 +45,11 @@
                 "id": 2,
                 "name": "#ClassNaming",
                 "description": "Именование классов"
+            },
+            {
+                "id": 3,
+                "name": "#AvoidDynamicMethods",
+                "description": "Избегаем динамических вызовов методов"
             }
         ]
     },
