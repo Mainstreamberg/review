@@ -212,6 +212,11 @@
                 "id": 4,
                 "name": "#SmallPRBetter",
                 "description": "Маленькие ПР — эффективнее"
+            },
+            {
+                "id": 5,
+                "name": "#SeparateFormattingCommit",
+                "description": "Переформатирование файла делаем отдельным коммитом"
             }
         ]
     },
