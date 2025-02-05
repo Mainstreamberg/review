@@ -1,5 +1,27 @@
 [
     {
+        "id": 2,
+        "name": "Commenting",
+        "items": [
+            {
+                "id": 1,
+                "name": "#CommentedCodeExplanation",
+                "description": "Хочешь оставить закоментированный код. Пиши пояснительный комментарий"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Debugging",
+        "items": [
+            {
+                "id": 1,
+                "name": "#NoDebugOutputInCode",
+                "description": "Не оставляем вывод сообщений дебага в коде"
+            }
+        ]
+    },
+    {
         "id": 4,
         "name": "Coding Style",
         "items": [
