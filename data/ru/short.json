@@ -7,6 +7,11 @@
                 "id": 1,
                 "name": "#CommentedCodeExplanation",
                 "description": "Хочешь оставить закоментированный код. Пиши пояснительный комментарий"
+            },
+            {
+                "id": 2,
+                "name": "#ExplainDeprecation",
+                "description": "Поясняем причины применения аннотации @deprecated"
             }
         ]
     },
@@ -216,7 +221,7 @@
             {
                 "id": 5,
                 "name": "#SeparateFormattingCommit",
-                "description": "Переформатирование файла делаем отдельным коммитом"
+                "description": "Переформатирование файлов делаем отдельным коммитом"
             }
         ]
     },
@@ -244,6 +249,11 @@
                 "id": 1,
                 "name": "#UseClassConstantForClassName",
                 "description": "Используем константу класса вместо строки"
+            },
+            {
+                "id": 2,
+                "name": "#StrictComparisonOnly",
+                "description": "Используем строгое сравнение для предотвращения ошибок, связанных с автоматическим приведением типов"
             }
         ]
     }
