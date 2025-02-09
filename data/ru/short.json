@@ -98,6 +98,11 @@
                 "id": 2,
                 "name": "#AvoidDefaultLogicInQueryBuilder",
                 "description": "Избегайте логики по умолчанию в QueryBuilder"
+            },
+            {
+                "id": 3,
+                "name": "#IndependentQueryFilters",
+                "description": "Независимые фильтра построителя запросов(QueryBuilder)"
             }
         ]
     },
