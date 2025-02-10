@@ -12,6 +12,11 @@
                 "id": 2,
                 "name": "#ExplainDeprecation",
                 "description": "Поясняем причины применения аннотации @deprecated"
+            },
+            {
+                "id": 3,
+                "name": "#CommentEmptyFile",
+                "description": "Необходим поясняющий комментарий, объясняющий назначение пустого файла."
             }
         ]
     },
