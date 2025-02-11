@@ -1,4 +1,16 @@
 [
+
+    {
+        "id": 40,
+        "name": "CodeClarity",
+        "items": [
+            {
+                "id": 1,
+                "name": "#NamingConventions",
+                "description": "Соглашения об именовании"
+            }
+        ]
+    },
     {
         "id": 41,
         "name": "CommitGuidelines",
