@@ -1,5 +1,15 @@
 [
-
+    {
+        "id": 39,
+        "name": "JavaScript",
+        "items": [
+            {
+                "id": 1,
+                "name": "#AvoidComplexSelectors",
+                "description": "Избегаем комплексные селекторы"
+            }
+        ]
+    },
     {
         "id": 40,
         "name": "CodeClarity",
