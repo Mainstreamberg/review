@@ -286,6 +286,11 @@
                 "id": 5,
                 "name": "#SeparateFormattingCommit",
                 "description": "Переформатирование файлов делаем отдельным коммитом"
+            },
+            {
+                "id": 6,
+                "name": "#ChangesThatDontMatter",
+                "description": "Уменьшаем бесполезные изменения в коде"
             }
         ]
     },
