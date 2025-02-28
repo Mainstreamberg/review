@@ -1,5 +1,16 @@
 [
     {
+        "id": 38,
+        "name": "Doctrine Practices",
+        "items": [
+            {
+                "id": 1,
+                "name": "#AvoidNativeQueriesDoctrine",
+                "description": "Отказываемся от нативных SQL-запросов в пользу абстракций Doctrine"
+            }
+        ]
+    },
+    {
         "id": 39,
         "name": "JavaScript",
         "items": [
