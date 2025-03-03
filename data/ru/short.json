@@ -29,6 +29,11 @@
                 "id": 1,
                 "name": "#NamingConventions",
                 "description": "Соглашения об именовании"
+            },
+            {
+                "id": 2,
+                "name": "#NoCodeTypos",
+                "description": "Проблемы опечаток в коде"
             }
         ]
     },
