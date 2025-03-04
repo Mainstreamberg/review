@@ -45,6 +45,11 @@
                 "id": 1,
                 "name": "#CommitNaming",
                 "description": "Именование коммита"
+            },
+            {
+                "id": 2,
+                "name": "#TypoInCommitMessage",
+                "description": "Опечатка в заголовке коммита"
             }
         ]
     },
