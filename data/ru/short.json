@@ -55,6 +55,11 @@
                 "id": 2,
                 "name": "#TypoInCommitMessage",
                 "description": "Опечатка в заголовке коммита"
+            },
+            {
+                "id": 3,
+                "name": "#CommitAndTaskCodeConsistency",
+                "description": "Согласованность кода задачи и коммита"
             }
         ]
     },
