@@ -167,6 +167,11 @@
                 "id": 3,
                 "name": "#AvoidDynamicMethods",
                 "description": "Избегаем динамических вызовов методов"
+            },
+            {
+                "id": 4,
+                "name": "#LogicalMethodPropertyOrder",
+                "description": "Порядок объявления методов и свойств в классе"
             }
         ]
     },
