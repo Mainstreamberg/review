@@ -29,6 +29,11 @@
                 "id": 1,
                 "name": "#AvoidComplexSelectors",
                 "description": "Избегаем комплексные селекторы"
+            },
+            {
+                "id": 2,
+                "name": "#LoadingDuringRequests",
+                "description": "Использование индикаторов загрузки при AJAX-запросах"
             }
         ]
     },
