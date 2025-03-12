@@ -1,5 +1,16 @@
 [
     {
+        "id": 37,
+        "name": "Designing Controllers",
+        "items": [
+            {
+                "id": 1,
+                "name": "#AvoidHelperMethodsInController",
+                "description": "Не размещайте вспомогательные методы в контроллере, только action."
+            }
+        ]
+    },
+    {
         "id": 38,
         "name": "Doctrine Practices",
         "items": [
