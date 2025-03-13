@@ -1,5 +1,16 @@
 [
     {
+        "id": 36,
+        "name": "Project Practices",
+        "items": [
+            {
+                "id": 1,
+                "name": "#SeparateModuleResponsibilities",
+                "description": "Разделяйте ответственность между модулями."
+            }
+        ]
+    },
+    {
         "id": 37,
         "name": "Designing Controllers",
         "items": [
