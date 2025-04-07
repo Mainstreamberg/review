@@ -7,6 +7,11 @@
                 "id": 1,
                 "name": "#SeparateModuleResponsibilities",
                 "description": "Разделяйте ответственность между модулями."
+            },
+            {
+                "id": 2,
+                "name": "#ExportLogicInActions",
+                "description": "Использование Action для логики экспорта данных"
             }
         ]
     },
