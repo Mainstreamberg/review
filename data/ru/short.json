@@ -34,7 +34,12 @@
                 "id": 1,
                 "name": "#AvoidNativeQueriesDoctrine",
                 "description": "Отказываемся от нативных SQL-запросов в пользу абстракций Doctrine"
-            }
+            },
+            {
+                "id": 2,
+                "name": "#UseExprForConditions",
+                "description": "Используем метод expr() для создания условий в запросах, а не строки, для повышения безопасности и читаемости кода."
+           }
         ]
     },
     {
