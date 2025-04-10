@@ -240,6 +240,11 @@
                 "id": 3,
                 "name": "#TableAndEntityNaming",
                 "description": "Именование таблиц и сущностей"
+            },
+            {
+                "id": 4,
+                "name": "#FlushInGetterMethod",
+                "description": "Логика сохранения в методе получения ID"
             }
         ]
     },
