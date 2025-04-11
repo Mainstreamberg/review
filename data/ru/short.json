@@ -363,6 +363,11 @@
                 "id": 6,
                 "name": "#ChangesThatDontMatter",
                 "description": "Уменьшаем бесполезные изменения в коде"
+            },
+            {
+                "id": 7,
+                "name": "#DeprecatedNewCode",
+                "description": "Помечаем новый код как @Deprecated при нарушении архитектурных принципов"
             }
         ]
     },
