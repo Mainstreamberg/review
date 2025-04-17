@@ -166,18 +166,23 @@
     },
     {
         "id": 46,
-        "name": "Разделение логики",
+        "name": "Logic Separation",
         "items": [
             {
                 "id": 1,
                 "name": "#EntityResponsibility",
                 "description": "Нарушение ответственности сущности"
+            },
+            {
+                "id": 2,
+                "name": "#ViewOnlyRenders",
+                "description": "Во view может быть простая логика отображения, но никакой бизнес-логики и работы с данными запроса"
             }
         ]
     },
     {
         "id": 47,
-        "name": "Проектирование Классов",
+        "name": "Designing Classes",
         "items": [
             {
                 "id": 1,
@@ -203,7 +208,7 @@
     },
     {
         "id": 48,
-        "name": "Проектирование Репозиториев",
+        "name": "Designing Repositories",
         "items": [
             {
                 "id": 1,
@@ -229,7 +234,7 @@
     },
     {
         "id": 49,
-        "name": "Проектирование Сущностей",
+        "name": "Designing Entities",
         "items": [
             {
                 "id": 1,
@@ -306,7 +311,7 @@
     },
     {
         "id": 51,
-        "name": "Плохие практики",
+        "name": "Bad Practices",
         "items": [
             {
                 "id": 1,
@@ -378,7 +383,7 @@
     },
     {
         "id": 53,
-        "name": "Практики для Yii",
+        "name": "Yii Practices",
         "items": [
             {
                 "id": 1,
