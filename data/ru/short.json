@@ -235,6 +235,11 @@
                 "id": 4,
                 "name": "#BuildAndReuseQueries",
                 "description": "Построение и переиспользование запросов"
+            },
+            {
+                "id": 5,
+                "name": "#UseJoinWrapper",
+                "description": "Используйте обертки объединения таблиц"
             }
         ]
     },
