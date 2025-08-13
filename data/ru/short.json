@@ -358,6 +358,11 @@
                 "id": 6,
                 "name": "#UsingLogicalAndForControlFlow",
                 "description": "Использование логического оператора для управления выполнением - это плохая практика"
+            },
+            {
+                "id": 7,
+                "name": "InefficientCliCommandExecutionInLoop",
+                "description": "Неэффективный запуск консольных команд в цикле"
             }
         ]
     },
