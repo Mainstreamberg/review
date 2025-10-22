@@ -188,6 +188,11 @@
                 "id": 2,
                 "name": "#ViewOnlyRenders",
                 "description": "Во view может быть простая логика отображения, но никакой бизнес-логики и работы с данными запроса"
+            },
+            {
+                "id": 3,
+                "name": "#ExtractToPresenter",
+                "description": "Выносим UI логику в презентер"
             }
         ]
     },
@@ -366,7 +371,7 @@
             },
             {
                 "id": 7,
-                "name": "InefficientCliCommandExecutionInLoop",
+                "name": "#InefficientCliCommandExecutionInLoop",
                 "description": "Неэффективный запуск консольных команд в цикле"
             }
         ]
