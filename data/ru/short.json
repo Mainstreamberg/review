@@ -419,6 +419,17 @@
     },
     {
         "id": 53,
+        "name": "Potential Runtime Errors",
+        "items": [
+            {
+                "id": 1,
+                "name": "#LoopVariableShadowing",
+                "description": "Внутри цикла исходная переменная затирается и перестаёт ссылаться на исходный объект, что приводит к непредсказуемому поведению"
+            }
+        ]
+    },
+    {
+        "id": 54,
         "name": "Yii Practices",
         "items": [
             {
@@ -434,7 +445,7 @@
         ]
     },
     {
-        "id": 54,
+        "id": 55,
         "name": "Best Practices",
         "items": [
             {
