@@ -470,5 +470,16 @@
                 "description": "Не отдавайте пользователю текст внутреннего исключения"
             }
         ]
+    },
+    {
+        "id": 57,
+        "name": "Input Handling",
+        "items": [
+            {
+                "id": 1,
+                "name": "#AvoidGetAllRequestParams",
+                "description": "Избегаем получение из запроса ненужных параметров"
+            }
+        ]
     }
 ]
