@@ -479,6 +479,11 @@
                 "id": 1,
                 "name": "#AvoidGetAllRequestParams",
                 "description": "Избегаем получение из запроса ненужных параметров"
+            },
+            {
+                "id": 2,
+                "name": "#AvoidHiddenRequestSource",
+                "description": "Избегаем неявного источника параметра запроса"
             }
         ]
     }
